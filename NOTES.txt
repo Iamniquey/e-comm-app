@@ -1,0 +1,6 @@
+solution folder:
+D:\Users\Nique\Documents\Coding Projects\CodeAcademy\ca18_E_Comm_Project\codecademy-ecommerce-rest-api-master
+
+
+swagger folder:
+D:\Users\Nique\Documents\Coding Projects\CodeAcademy\ca17_Swagger
